@@ -9,3 +9,7 @@
 1.安装相关的模块 npm install 
 
 2.运行项目 npm run dec
+
+### `项目截图`
+
+![Image text]http://images.weblyff.cn/home.png
