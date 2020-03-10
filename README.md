@@ -13,3 +13,5 @@
 ### `项目截图`
 
 ![image](http://images.weblyff.cn/home.png)
+
+![image](http://images.weblyff.cn/recovery.png)
