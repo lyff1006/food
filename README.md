@@ -4,5 +4,5 @@
 相关技术：vue.js、php、mysql、axios、json、gis、python爬虫
 
 使用步骤
-#1.安装相关的模块 npm install 
-#2.运行项目 npm run dec
+# 1.安装相关的模块 npm install 
+# 2.运行项目 npm run dec
